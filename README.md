@@ -95,13 +95,6 @@ This notebook showcases the integration of OpenCV with Flask for video processin
 Feel free to explore these notebooks to gain hands-on experience with OpenCV and its applications in various domains.
 
 
-### .ipynb_checkpoints
-
-This folder stores Jupyter Notebook checkpoints.
-
-### README.md
-
-You are currently reading the README file, which provides an overview of the repository.
 
 ## Usage
 
