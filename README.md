@@ -1,4 +1,5 @@
 # quick_data_sceince
+![DALL·E 2023-11-29 22 35 45 - _Merging Algorithms and Art_  Description_ Create an image that seamlessly combines machine learning algorithms with artistic elements, showcasing the](https://github.com/shivam3110/quick_data_science/assets/56818878/52a16e9f-6fc3-47ba-97c0-3f851fd73d0a)
 
 # Machine Learning and Data Analysis Repository
 
